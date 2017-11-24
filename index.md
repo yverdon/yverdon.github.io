@@ -2,4 +2,7 @@
 
 * [Mobilité](qgis/mobilite.md)
 
-* [mapnv.ch](mapnv/profile.md)
+## Géoportail mapnv.ch
+
+* [Dessiner un profil](mapnv/profile.md)
+* [Ajouter une couche](mapnv/addLayer.md)
