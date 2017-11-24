@@ -1,3 +1,3 @@
 # Ajout de couches sur le géoportail
 
-<video src="img/addLayer.mp4" width="320" height="200" controls preload></video>
+<video src="img/addLayer.mp4" width="1386" height="1054" autoplay></video>
